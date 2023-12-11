@@ -1,0 +1,7 @@
+apiVersion: v2
+appVersion: ${APP_VERSION}
+#appVersion: latest < 가능함
+kubeVersion: ">=1.23.0-0"
+description: A Helm chart for connectdtx
+name: connectdtx
+version: ${CHART_VERSION}
