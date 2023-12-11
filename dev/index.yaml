@@ -3,12 +3,12 @@ entries:
   connectdtx:
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2023-12-11T03:34:10.639657821Z"
+    created: "2023-12-11T03:40:20.938884926Z"
     description: A Helm chart for connectdtx
-    digest: e5d7359501f067ba523803e66bcbc90847b6267f2cca2be54ea9ffc381b63198
+    digest: eb7ebdde1611458945a6487fee01ba1629d06eca49ff35e5c5fe5e360f4df915
     kubeVersion: '>=1.23.0-0'
     name: connectdtx
     urls:
     - https://phi-digitial.github.io/helm-dtx/dev/connectdtx-0.0.1.tgz
     version: 0.0.1
-generated: "2023-12-11T03:34:10.636568387Z"
+generated: "2023-12-11T03:40:20.93710213Z"
