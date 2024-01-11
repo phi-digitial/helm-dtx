@@ -3,7 +3,17 @@ entries:
   connectdtx:
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2024-01-11T00:18:45.612419896Z"
+    created: "2024-01-11T04:01:47.351478291Z"
+    description: A Helm chart for connectdtx
+    digest: 7211a4b7d486242394b3ae4c1a1f5f67d8b237ed0dd4ee4c678526c4f6194c99
+    kubeVersion: '>=1.23.0-0'
+    name: connectdtx
+    urls:
+    - https://phi-digitial.github.io/helm-dtx/dev/connectdtx-0.0.4-34.tgz
+    version: 0.0.4-34
+  - apiVersion: v2
+    appVersion: 1.0.5
+    created: "2024-01-11T04:01:47.350230308Z"
     description: A Helm chart for connectdtx
     digest: 2bddc9b033cfda44002515e9df0fe3740e90969b72a8555c52861490f63da33d
     kubeVersion: '>=1.23.0-0'
@@ -13,7 +23,7 @@ entries:
     version: 0.0.4-33
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2024-01-11T00:18:45.610871395Z"
+    created: "2024-01-11T04:01:47.348951195Z"
     description: A Helm chart for connectdtx
     digest: 7ce59d8e50c240dbedb9601e63f97ba4cc49360bcef4a6a1c37b330078bb0865
     kubeVersion: '>=1.23.0-0'
@@ -23,7 +33,7 @@ entries:
     version: 0.0.4-32
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2024-01-11T00:18:45.609389249Z"
+    created: "2024-01-11T04:01:47.347669116Z"
     description: A Helm chart for connectdtx
     digest: 9186cf5c92cf7d60a67ae184fd9fd8f49bad7183afb8d1b8280c7ee66ac67173
     kubeVersion: '>=1.23.0-0'
@@ -33,7 +43,7 @@ entries:
     version: 0.0.4-31
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2024-01-11T00:18:45.607666408Z"
+    created: "2024-01-11T04:01:47.346073815Z"
     description: A Helm chart for connectdtx
     digest: e0585991cc4f9bfc6fca384abc0f84177028101b760881fa3619d3a9a76e3a14
     kubeVersion: '>=1.23.0-0'
@@ -43,7 +53,7 @@ entries:
     version: 0.0.4-30
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2024-01-11T00:18:45.59877048Z"
+    created: "2024-01-11T04:01:47.343730978Z"
     description: A Helm chart for connectdtx
     digest: 7600b691dd72ed71e8703f21a56c3009c1a457806496e07baff6cc95df851856
     kubeVersion: '>=1.23.0-0'
@@ -53,7 +63,7 @@ entries:
     version: 0.0.4-29
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2024-01-11T00:18:45.597359418Z"
+    created: "2024-01-11T04:01:47.342448017Z"
     description: A Helm chart for connectdtx
     digest: a3f1d6582edc5d32c53b14d36762165d3de3717153bcbb8c6802795e048adb43
     kubeVersion: '>=1.23.0-0'
@@ -63,7 +73,7 @@ entries:
     version: 0.0.4-28
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2024-01-11T00:18:45.595940643Z"
+    created: "2024-01-11T04:01:47.341171299Z"
     description: A Helm chart for connectdtx
     digest: 127ca446b440904fa94dc854705a2f18a1025abcb60559cc9a7927d12f67a067
     kubeVersion: '>=1.23.0-0'
@@ -73,7 +83,7 @@ entries:
     version: 0.0.4-27
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2024-01-11T00:18:45.594533138Z"
+    created: "2024-01-11T04:01:47.339853923Z"
     description: A Helm chart for connectdtx
     digest: 2c3e73ba5bc3a71c4df6a58c62a0933e3c5982235e0f9f703f35d619e6f4867b
     kubeVersion: '>=1.23.0-0'
@@ -83,7 +93,7 @@ entries:
     version: 0.0.4-26
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2024-01-11T00:18:45.591927937Z"
+    created: "2024-01-11T04:01:47.338579029Z"
     description: A Helm chart for connectdtx
     digest: d4ed12203940d432aef77d04a1e5fc04d6d45854177951e43234b97c6c826841
     kubeVersion: '>=1.23.0-0'
@@ -93,7 +103,7 @@ entries:
     version: 0.0.4-25
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2024-01-11T00:18:45.590449558Z"
+    created: "2024-01-11T04:01:47.3343402Z"
     description: A Helm chart for connectdtx
     digest: b3ed8565f29cad6905f08f5c321b232ef2a97dfd23130495c750765db8d06d4d
     kubeVersion: '>=1.23.0-0'
@@ -103,7 +113,7 @@ entries:
     version: 0.0.3-22
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2024-01-11T00:18:45.588897852Z"
+    created: "2024-01-11T04:01:47.333087878Z"
     description: A Helm chart for connectdtx
     digest: 22d75f2d0fffe33b1f936c6ca2ad142587501c28a3640e3e6fac61925b043a61
     kubeVersion: '>=1.23.0-0'
@@ -113,7 +123,7 @@ entries:
     version: 0.0.1
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2024-01-11T00:18:45.587177906Z"
+    created: "2024-01-11T04:01:47.331749342Z"
     description: A Helm chart for connectdtx
     digest: c9ecf6476ed2ddbaa92373fb34f6e26a8a5d28d5a80116dfc58903d118ba8d97
     kubeVersion: '>=1.23.0-0'
@@ -121,4 +131,4 @@ entries:
     urls:
     - https://phi-digitial.github.io/helm-dtx/dev/connectdtx-0.0.1-20.tgz
     version: 0.0.1-20
-generated: "2024-01-11T00:18:45.584145816Z"
+generated: "2024-01-11T04:01:47.330341506Z"
