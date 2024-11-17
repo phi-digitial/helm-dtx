@@ -914,16 +914,6 @@ entries:
   janusync-front:
   - apiVersion: v2
     appVersion: latest
-    created: "2024-11-17T14:36:44.706305543Z"
-    description: Helm chart for janusync-front
-    digest: 0bf94499057e5ccfd0ecbd358fe10acfffa10ca556dda9afc54b63610785d365
-    kubeVersion: '>=1.23.0-0'
-    name: janusync-front
-    urls:
-    - https://phi-digitial.github.io/helm-dtx/dev/janusync-front-0.0.1.tgz
-    version: 0.0.1
-  - apiVersion: v2
-    appVersion: latest
     created: "2024-11-17T14:36:44.705898793Z"
     description: Helm chart for janusync-front
     digest: 192b14a44b98c833ed0b14748740deda8e53112ffe571b5c3a2f86fb3a5335eb
