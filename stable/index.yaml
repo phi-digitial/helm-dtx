@@ -3,7 +3,7 @@ entries:
   connectdtx:
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2024-02-07T23:24:50.977084345Z"
+    created: "2024-12-07T01:20:40.22544646Z"
     description: A Helm chart for connectdtx
     digest: e63cb33170d1b39cd2c110e1ef09080bea8a7c770089b1c98948fc9a94605dd8
     kubeVersion: '>=1.23.0-0'
@@ -13,7 +13,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2024-02-07T23:24:50.975245305Z"
+    created: "2024-12-07T01:20:40.223856109Z"
     description: A Helm chart for connectdtx
     digest: a5740cfc34915ac2e7f38899252fcb3271abd0ac93313c58e0a65f7c6b450667
     kubeVersion: '>=1.23.0-0'
@@ -23,7 +23,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2024-02-07T23:24:50.971006854Z"
+    created: "2024-12-07T01:20:40.222522844Z"
     description: A Helm chart for connectdtx
     digest: 3f68234ac489c0847a471faa648920fc2aeefe255470170821e2e8686c47a6a5
     kubeVersion: '>=1.23.0-0'
@@ -33,7 +33,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2024-02-07T23:24:50.969278583Z"
+    created: "2024-12-07T01:20:40.220875957Z"
     description: A Helm chart for connectdtx
     digest: 24e5e442489c4a5ae21e480d5301f5f46f81150f15effcd5a96607bc4789f43c
     kubeVersion: '>=1.23.0-0'
@@ -43,8 +43,18 @@ entries:
     version: 0.0.1
   janusync:
   - apiVersion: v2
+    appVersion: latest
+    created: "2024-12-07T01:20:40.238678545Z"
+    description: Helm chart for janusync
+    digest: 21856692b7e49c8ceb70afdf2dadc41aeeb7206362ad94863498689958f38f2d
+    kubeVersion: '>=1.23.0-0'
+    name: janusync
+    urls:
+    - https://phi-digitial.github.io/helm-dtx/stable/janusync-0.0.6.tgz
+    version: 0.0.6
+  - apiVersion: v2
     appVersion: 1.1.0
-    created: "2024-02-07T23:24:50.978680255Z"
+    created: "2024-12-07T01:20:40.231152255Z"
     description: A Helm chart for connectdtx
     digest: af339e2848d450a16429a4f98b43f619697542871d5a39cc71eddc312bf19393
     kubeVersion: '>=1.23.0-0'
@@ -52,4 +62,4 @@ entries:
     urls:
     - https://phi-digitial.github.io/helm-dtx/stable/janusync-0.0.5.tgz
     version: 0.0.5
-generated: "2024-02-07T23:24:50.959077619Z"
+generated: "2024-12-07T01:20:40.219124852Z"
