@@ -3,7 +3,7 @@ entries:
   connectdtx:
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2025-09-06T00:16:52.094028915Z"
+    created: "2026-01-23T06:44:26.314034051Z"
     description: A Helm chart for connectdtx
     digest: e63cb33170d1b39cd2c110e1ef09080bea8a7c770089b1c98948fc9a94605dd8
     kubeVersion: '>=1.23.0-0'
@@ -13,7 +13,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2025-09-06T00:16:52.091870436Z"
+    created: "2026-01-23T06:44:26.307345933Z"
     description: A Helm chart for connectdtx
     digest: a5740cfc34915ac2e7f38899252fcb3271abd0ac93313c58e0a65f7c6b450667
     kubeVersion: '>=1.23.0-0'
@@ -23,7 +23,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2025-09-06T00:16:52.086312983Z"
+    created: "2026-01-23T06:44:26.304414813Z"
     description: A Helm chart for connectdtx
     digest: 3f68234ac489c0847a471faa648920fc2aeefe255470170821e2e8686c47a6a5
     kubeVersion: '>=1.23.0-0'
@@ -33,7 +33,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2025-09-06T00:16:52.08236878Z"
+    created: "2026-01-23T06:44:26.301112013Z"
     description: A Helm chart for connectdtx
     digest: 24e5e442489c4a5ae21e480d5301f5f46f81150f15effcd5a96607bc4789f43c
     kubeVersion: '>=1.23.0-0'
@@ -44,7 +44,17 @@ entries:
   janusync:
   - apiVersion: v2
     appVersion: latest
-    created: "2025-09-06T00:16:52.107755351Z"
+    created: "2026-01-23T06:44:26.33899632Z"
+    description: Helm chart for janusync
+    digest: 7dfe8f7f5b177055cd9c4934fb43fae3be5cdeb4d032f9a15a63cbf0c7bfdfa3
+    kubeVersion: '>=1.23.0-0'
+    name: janusync
+    urls:
+    - https://phi-digitial.github.io/helm-dtx/stable/janusync-0.0.8.tgz
+    version: 0.0.8
+  - apiVersion: v2
+    appVersion: latest
+    created: "2026-01-23T06:44:26.330934576Z"
     description: Helm chart for janusync
     digest: f0a61a8eba53bd486b36c0f1c82cccaea2a2d9835008c2ef6137ec8683a8c1ed
     kubeVersion: '>=1.23.0-0'
@@ -54,7 +64,7 @@ entries:
     version: 0.0.7
   - apiVersion: v2
     appVersion: latest
-    created: "2025-09-06T00:16:52.100154482Z"
+    created: "2026-01-23T06:44:26.322137734Z"
     description: Helm chart for janusync
     digest: 21856692b7e49c8ceb70afdf2dadc41aeeb7206362ad94863498689958f38f2d
     kubeVersion: '>=1.23.0-0'
@@ -64,7 +74,7 @@ entries:
     version: 0.0.6
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2025-09-06T00:16:52.095818216Z"
+    created: "2026-01-23T06:44:26.317369113Z"
     description: A Helm chart for connectdtx
     digest: af339e2848d450a16429a4f98b43f619697542871d5a39cc71eddc312bf19393
     kubeVersion: '>=1.23.0-0'
@@ -72,4 +82,4 @@ entries:
     urls:
     - https://phi-digitial.github.io/helm-dtx/stable/janusync-0.0.5.tgz
     version: 0.0.5
-generated: "2025-09-06T00:16:52.077719722Z"
+generated: "2026-01-23T06:44:26.297586771Z"
