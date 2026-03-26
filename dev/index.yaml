@@ -3,7 +3,7 @@ entries:
   janusync:
   - apiVersion: v2
     appVersion: latest
-    created: "2026-03-20T01:58:08.599560743Z"
+    created: "2026-03-26T02:05:46.626226467Z"
     description: Helm chart for janusync
     digest: e3ff2a83238964f323b444eb7aee82caf2316228d9739d54cbeb219d85bd18f0
     kubeVersion: '>=1.23.0-0'
@@ -13,7 +13,7 @@ entries:
     version: 0.0.10-3464
   - apiVersion: v2
     appVersion: latest
-    created: "2026-03-20T01:58:08.591864665Z"
+    created: "2026-03-26T02:05:46.619403247Z"
     description: Helm chart for janusync
     digest: d947bf01612f388a766b62750580b103edb1ca4525a56796c40d0b46d5f6413f
     kubeVersion: '>=1.23.0-0'
@@ -23,7 +23,7 @@ entries:
     version: 0.0.10-3459
   - apiVersion: v2
     appVersion: latest
-    created: "2026-03-20T01:58:08.584807989Z"
+    created: "2026-03-26T02:05:46.612482331Z"
     description: Helm chart for janusync
     digest: cdfae3f6f60b9452dbad159d984083f4297487f27d5bffc1ddc55328bdb2c5f3
     kubeVersion: '>=1.23.0-0'
@@ -33,7 +33,7 @@ entries:
     version: 0.0.10-3458
   - apiVersion: v2
     appVersion: latest
-    created: "2026-03-20T01:58:08.574673623Z"
+    created: "2026-03-26T02:05:46.603507824Z"
     description: Helm chart for janusync
     digest: 9cb3d7a0137f8fe38472ed9186115a4c84980bebd205d46d661079370af944a5
     kubeVersion: '>=1.23.0-0'
@@ -44,9 +44,9 @@ entries:
   janusync-devstack:
   - apiVersion: v2
     appVersion: latest
-    created: "2026-03-20T01:58:08.60069271Z"
+    created: "2026-03-26T02:05:46.626879894Z"
     description: Helm chart for janusync devstack
-    digest: a34666d04c4d9e49c48b0e70b7ab3ad6a36271caa67619c048524b02cd619dcd
+    digest: b4befdae3d5adb5afc5703b692326aef41c47792f907ff062ad90422edb5aa40
     kubeVersion: '>=1.23.0-0'
     name: janusync-devstack
     urls:
@@ -55,7 +55,7 @@ entries:
   janusync-front:
   - apiVersion: v2
     appVersion: latest
-    created: "2026-03-20T01:58:08.602769859Z"
+    created: "2026-03-26T02:05:46.627365723Z"
     description: Helm chart for janusync-front
     digest: 055cdadf548bf4a4fb7c90c7b1c6c102cdd85c1e86f76fa7b21eabedf936e3b8
     kubeVersion: '>=1.23.0-0'
@@ -63,4 +63,4 @@ entries:
     urls:
     - https://phi-digitial.github.io/helm-dtx/dev/janusync-front-0.0.1.tgz
     version: 0.0.1
-generated: "2026-03-20T01:58:08.567390788Z"
+generated: "2026-03-26T02:05:46.598228217Z"
