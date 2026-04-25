@@ -144,26 +144,6 @@ entries:
   janusync-devstack:
   - apiVersion: v2
     appVersion: latest
-    created: "2026-04-25T11:11:49.433763365Z"
-    description: Helm chart for janusync devstack
-    digest: 7fcf5b027b3123ae481fe75d2170bca3bb30756821e8782ddb639dd89d023d32
-    kubeVersion: '>=1.23.0-0'
-    name: janusync-devstack
-    urls:
-    - https://phi-digitial.github.io/helm-dtx/dev/janusync-devstack-0.0.4.tgz
-    version: 0.0.4
-  - apiVersion: v2
-    appVersion: latest
-    created: "2026-04-25T11:11:49.432237355Z"
-    description: Helm chart for janusync devstack
-    digest: 4dc6a9a5384b7fd18c96b9d2ec3ce125e14d9a8df09a9a7038ce95fc02abd1d9
-    kubeVersion: '>=1.23.0-0'
-    name: janusync-devstack
-    urls:
-    - https://phi-digitial.github.io/helm-dtx/dev/janusync-devstack-0.0.3.tgz
-    version: 0.0.3
-  - apiVersion: v2
-    appVersion: latest
     created: "2026-04-25T11:11:49.430686538Z"
     description: Helm chart for janusync devstack
     digest: 4d4f2c5b90559fa4d77dff69c1b4ea8446c7e3b77d74787f879e9221d572bcce
